@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "lodash-es": "^4.17.21"
+  },
+  "name": "challenge-16",
+  "version": "1.0.0",
+  "browserlist": "> 0.25%, not dead",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
